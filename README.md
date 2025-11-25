@@ -1,3 +1,5 @@
+```
+
 """
 Test script to generate a specific 8x8 slide with a text box.
 Reference: src/agents/renderer.py and src/layout/text_height_measurement.py
@@ -168,7 +170,7 @@ def main():
     prs.save(output_path)
     print(f"Saved test presentation to: {output_path}")
 
-
+```
 
 
 
